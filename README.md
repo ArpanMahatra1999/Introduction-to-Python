@@ -1,5 +1,4 @@
 # Introduction-to-Python
-
 Python codes for basic data types, operators, statements and command line parameters.
 
 Tools used:
